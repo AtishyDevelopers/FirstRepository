@@ -1,0 +1,52 @@
+D:\App_Stock\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.deps.json
+D:\App_Stock\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.dll
+D:\App_Stock\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.pdb
+D:\App_Stock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csprojAssemblyReference.cache
+D:\App_Stock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfoInputs.cache
+D:\App_Stock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfo.cs
+D:\App_Stock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.dll
+D:\App_Stock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.pdb
+E:\NewAppStock\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.deps.json
+E:\NewAppStock\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.dll
+E:\NewAppStock\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.pdb
+E:\NewAppStock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfoInputs.cache
+E:\NewAppStock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfo.cs
+E:\NewAppStock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csproj.CoreCompileInputs.cache
+E:\NewAppStock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.dll
+E:\NewAppStock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.pdb
+E:\NewAppStock\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csprojAssemblyReference.cache
+E:\NEwShare\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.deps.json
+E:\NEwShare\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.dll
+E:\NEwShare\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.pdb
+E:\NEwShare\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csprojAssemblyReference.cache
+E:\NEwShare\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfoInputs.cache
+E:\NEwShare\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfo.cs
+E:\NEwShare\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csproj.CoreCompileInputs.cache
+E:\NEwShare\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.dll
+E:\NEwShare\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.deps.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfoInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfo.cs
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csproj.CoreCompileInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csprojAssemblyReference.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csprojAssemblyReference.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfo.cs
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.deps.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfoInputs.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.AssemblyInfo.cs
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.csproj.CoreCompileInputs.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\obj\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.deps.json
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.core\bin\Debug\netstandard2.0\AppStock.core.pdb

@@ -1,0 +1,71 @@
+D:\App_Stock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.deps.json
+D:\App_Stock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+D:\App_Stock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+D:\App_Stock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.dll
+D:\App_Stock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.pdb
+D:\App_Stock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csprojAssemblyReference.cache
+D:\App_Stock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfoInputs.cache
+D:\App_Stock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfo.cs
+D:\App_Stock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CopyComplete
+D:\App_Stock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.dll
+D:\App_Stock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NewAppStock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.deps.json
+E:\NewAppStock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+E:\NewAppStock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NewAppStock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.dll
+E:\NewAppStock\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.pdb
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csprojAssemblyReference.cache
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfoInputs.cache
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfo.cs
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CoreCompileInputs.cache
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CopyComplete
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.dll
+E:\NewAppStock\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csprojAssemblyReference.cache
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfoInputs.cache
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfo.cs
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CoreCompileInputs.cache
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.dll
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NEwShare\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.deps.json
+E:\NEwShare\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+E:\NEwShare\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NEwShare\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.dll
+E:\NEwShare\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.pdb
+E:\NEwShare\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CopyComplete
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.deps.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csprojAssemblyReference.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfoInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfo.cs
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CopyComplete
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csprojAssemblyReference.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfo.cs
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.deps.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CopyComplete
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.deps.json
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csprojAssemblyReference.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfoInputs.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.AssemblyInfo.cs
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.csproj.CopyComplete
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Persistence\obj\Debug\netstandard2.0\AppStock.Persistence.pdb

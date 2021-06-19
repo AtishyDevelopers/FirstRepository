@@ -1,0 +1,497 @@
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.json
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.exe
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.deps.json
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.json
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.dev.json
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.pdb
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.dll
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.pdb
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.pdb
+D:\App_Stock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.pdb
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csprojAssemblyReference.cache
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.MvcApplicationPartsAssemblyInfo.cache
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfoInputs.cache
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfo.cs
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.RazorTargetAssemblyInfo.cache
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CopyComplete
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.Manifest.cache
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.xml
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.dll
+D:\App_Stock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.pdb
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.exe
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.deps.json
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.json
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.dev.json
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.pdb
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.dll
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.pdb
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.pdb
+E:\NewAppStock\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.pdb
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csprojAssemblyReference.cache
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfoInputs.cache
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfo.cs
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CoreCompileInputs.cache
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.MvcApplicationPartsAssemblyInfo.cache
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.Manifest.cache
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.xml
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\scopedcss\bundle\App_Stock.styles.css
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.RazorTargetAssemblyInfo.cache
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CopyComplete
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.dll
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.pdb
+E:\NewAppStock\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.genruntimeconfig.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csprojAssemblyReference.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfoInputs.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfo.cs
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CoreCompileInputs.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.MvcApplicationPartsAssemblyInfo.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.dll
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.pdb
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.exe
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.deps.json
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.json
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.dev.json
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.pdb
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.dll
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.pdb
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.pdb
+E:\NEwShare\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.pdb
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.Manifest.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.xml
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\scopedcss\bundle\App_Stock.styles.css
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.RazorTargetAssemblyInfo.cache
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CopyComplete
+E:\NEwShare\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.genruntimeconfig.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.exe
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.deps.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.dev.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csprojAssemblyReference.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfoInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfo.cs
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CoreCompileInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.Manifest.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.xml
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\scopedcss\bundle\App_Stock.styles.css
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.RazorTargetAssemblyInfo.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CopyComplete
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.genruntimeconfig.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csprojAssemblyReference.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfo.cs
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.exe
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.deps.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.dev.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.Manifest.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.xml
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\scopedcss\bundle\App_Stock.styles.css
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.RazorTargetAssemblyInfo.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CopyComplete
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.genruntimeconfig.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csprojAssemblyReference.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfoInputs.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.AssemblyInfo.cs
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CoreCompileInputs.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.pdb
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.exe
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.deps.json
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.json
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.runtimeconfig.dev.json
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\App_Stock.pdb
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.dll
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.core.pdb
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Services.pdb
+C:\Users\atishay\Desktop\App_Stock\App_Stock\bin\Debug\netcoreapp3.1\AppStock.Persistence.pdb
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.Manifest.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\staticwebassets\App_Stock.StaticWebAssets.xml
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\scopedcss\bundle\App_Stock.styles.css
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.RazorTargetAssemblyInfo.cache
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.csproj.CopyComplete
+C:\Users\atishay\Desktop\App_Stock\App_Stock\obj\Debug\netcoreapp3.1\App_Stock.genruntimeconfig.cache

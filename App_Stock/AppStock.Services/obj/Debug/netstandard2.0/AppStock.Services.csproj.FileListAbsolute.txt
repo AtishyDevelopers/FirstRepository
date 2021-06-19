@@ -1,0 +1,83 @@
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.deps.json
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.dll
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.pdb
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.dll
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.pdb
+D:\App_Stock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+D:\App_Stock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csprojAssemblyReference.cache
+D:\App_Stock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfoInputs.cache
+D:\App_Stock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfo.cs
+D:\App_Stock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CopyComplete
+D:\App_Stock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.dll
+D:\App_Stock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.pdb
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.deps.json
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.dll
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.pdb
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.dll
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.pdb
+E:\NewAppStock\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csprojAssemblyReference.cache
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfoInputs.cache
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfo.cs
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CoreCompileInputs.cache
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CopyComplete
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.dll
+E:\NewAppStock\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.pdb
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csprojAssemblyReference.cache
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfoInputs.cache
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfo.cs
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CoreCompileInputs.cache
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.dll
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.pdb
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.deps.json
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.dll
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.pdb
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.dll
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.pdb
+E:\NEwShare\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+E:\NEwShare\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CopyComplete
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.deps.json
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csprojAssemblyReference.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfoInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfo.cs
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CopyComplete
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.dll
+C:\Users\Ajit\Desktop\Anil Singh\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csprojAssemblyReference.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfo.cs
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.deps.json
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CopyComplete
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.dll
+C:\Users\Anil Singh\Desktop\reset\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.deps.json
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Services.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.core.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\bin\Debug\netstandard2.0\AppStock.Persistence.pdb
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csprojAssemblyReference.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfoInputs.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.AssemblyInfo.cs
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CoreCompileInputs.cache
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.csproj.CopyComplete
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.dll
+C:\Users\atishay\Desktop\App_Stock\AppStock.Services\obj\Debug\netstandard2.0\AppStock.Services.pdb
